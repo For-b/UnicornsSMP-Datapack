@@ -1,11 +1,9 @@
-// Quick Pickaxe
-
 {
     "type": "crafting_shaped",
     "pattern": [
         "333",
         "121",
-        "#2#"
+        " 2 "
     ],
     "key": {
         "1": {
@@ -19,9 +17,6 @@
         }
     },
     "result": {
-        "item": "minecraft:iron_pick",
-        "count": 1
+        "item": "minecraft:iron_pickaxe"
     }
 }
-
-// Figure out enchantments!

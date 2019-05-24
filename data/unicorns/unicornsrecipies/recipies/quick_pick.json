@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "333",
+        "121",
+        "#2#"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:coal"
+        },
+        "2": {
+            "item": "minecraft:stick"
+        },
+        "3": {
+            "item": "minecraft:iron_ore"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_pick",
+        "count": 1
+    }
+}

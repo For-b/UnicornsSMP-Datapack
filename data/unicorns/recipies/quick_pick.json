@@ -1,3 +1,5 @@
+// Quick Pickaxe
+
 {
     "type": "crafting_shaped",
     "pattern": [
@@ -21,3 +23,5 @@
         "count": 1
     }
 }
+
+// Figure out enchantments!
